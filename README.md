@@ -1,7 +1,7 @@
 ## Škola koda: Vodič za developere
 # Kako doprinositi?
 
-**Razvoj softvera je veoma složena aktivnost i na procedure razvoja softvera će vam otići dosta vremena. Međutim, neophodno je savladati ih ukoliko se želite baviti razvojem.**
+***Razvoj softvera je veoma složena aktivnost i na procedure razvoja softvera će vam otići dosta vremena. Međutim, neophodno je savladati ih ukoliko se želite baviti razvojem.***
 
 Za početak je neophodno otvoriti naloge na svim navedenim servisima.
 

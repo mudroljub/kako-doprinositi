@@ -1,9 +1,9 @@
 ## Škola koda: Vodič za developere
 # Kako doprinositi projektu?
 
-Razvoj softvera je veoma složena aktivnost i na procedure razvoja softvera će vam otići dosta vremena. Međutim, neophodno je savladati ih ukoliko želite da se bavite razvojem.
+Razvoj softvera je veoma složena aktivnost i na procedure razvoja softvera će vam otići dosta vremena. Međutim, neophodno je savladati ih ukoliko se želite baviti razvojem.
 
-Za početak je neophodno otvoriti naloge na svim navedenim servisima i savladati njihovo korišćenje.
+Za početak je neophodno otvoriti naloge na svim navedenim servisima.
 
 ### Komunikacija: Slack
 
@@ -26,6 +26,16 @@ Potrebno je prvo da napravite nalog, a potom pokušate da se pridružite [kontro
 
 ### Razvoj softvera: Git i Github
 
-[Git](https://git-scm.com/downloads) služi za čuvanje istorije koda i zajednički razvoj softvera. Ukoliko već ne koristite Git, trebaće vam neko vreme da pohvatate osnovne komande. Najbolje je da prvo ispratite neki tutorijal. Git možete koristiti preko komandne linije ili preko korisničkog interfejsa. 
+[Git](https://git-scm.com/downloads) služi za čuvanje istorije koda i zajednički razvoj softvera. Ukoliko već ne koristite Git, trebaće vam neko vreme da pohvatate osnovne komande. Git možete koristiti preko komandne linije ili preko korisničkog interfejsa. Najbolje je da prvo ispratite neki tutorijal. Nakon što savladate osnovne komande, pročitajte:
+
+- [Rad sa gitom u kolektivu](https://skolakoda.org/rad-sa-gitom)
 
 [Github](http://github.com/) je jedna od platformi koje nude podršku u radu sa gitom i služi prventstveno za zajednički razvoj softvera. Ukoliko to već niste učinili, otvorite nalog na Githubu, a potom proverite da li ste podesili svoje korisničke podatke na lokalnoj instalaciji gita (potražite kako: `git set username and email`).
+
+Kao i do sada, ako negde zapne, slobodno potražite pomoć na našem slack kanalu.
+
+### Kloniranje i pokretanje projekta
+
+Čestitamo, prošli ste sve birokratske procedure i konačno stigli do samog koda. Da biste radili na nekom projektu, potrebno je da mu dobijete pristup (pitajte preko slacka). Nakon što vas dodamo na projekat, možete ga klonirati i pokrenuti na lokalu. U `README` fajlu svakog projekta nalazi se uputstvo za pokretanje. Ukoliko ne radi, opet pitajte na slacku.
+
+Nakon što ste uspeli da pokrenete projekat na lokalu i otvorite ga, sve je spremno da počnete. Napravite svoju granu i gitu i možete početi da na njoj vršite izmene. Srećno kodiranje!

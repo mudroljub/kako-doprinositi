@@ -3,8 +3,6 @@
 
 **Razvoj softvera je veoma složena aktivnost i na procedure razvoja softvera će vam otići dosta vremena. Međutim, neophodno je savladati ih ukoliko se želite baviti razvojem.**
 
-## Preduslovi
-
 Za početak je neophodno otvoriti naloge na svim navedenim servisima.
 
 ### Slack: Komunikacija
@@ -36,7 +34,7 @@ Potrebno je prvo da napravite nalog, a potom pokušate da se pridružite [kontro
 
 Kao i do sada, ako negde zapne, slobodno potražite pomoć na našem slack kanalu.
 
-## Početak zajedničkog rada
+### Početak zajedničkog rada
 
 Čestitamo, prošli ste sve birokratske procedure i konačno stigli do samog koda. Da biste radili na nekom projektu, potrebno je da mu dobijete pristup (pitajte preko slacka). Nakon što vas dodamo na projekat, možete ga klonirati i pokrenuti na lokalu. U `README` fajlu svakog projekta nalazi se uputstvo za pokretanje. Ukoliko ne radi, opet pitajte na slacku.
 

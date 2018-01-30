@@ -15,9 +15,9 @@ Problem je što je trajanje pozivnog linka ograničeno, i mora se redovno obnavl
 
 ### Vođenje projekta: Trello
 
-Trello koristimo za vođenje projekta, tu zapisujemo zadatke koje treba uraditi, pratimo ko šta radi, i dokle je stiglo.
+[Trello](http://trello.com/) koristimo za vođenje projekta, tu zapisujemo zadatke koje treba uraditi, pratimo ko šta radi, i dokle je stiglo.
 
-Potrebno je prvo da napravite nalog na [Trello](http://trello.com/)-u, a potom da pokušate da se pridružite [kontrolnoj tabli Školi koda](https://trello.com/skolakoda). Teoretski, ako ste već na Slacku, trebalo bi da se možete priključiti. Ako ne uspete da se priključite našem timu na Trelu, javite se na Slack kanalu da to rešimo.
+Potrebno je prvo da napravite nalog, a potom pokušate da se pridružite [kontrolnoj tabli Školi koda](https://trello.com/skolakoda). Teoretski, ako ste već na Slacku, trebalo bi da se možete priključiti. Ako ne uspete da se priključite našem timu na Trelu, javite se na Slack kanalu da to rešimo.
 
 ### Razvoj softvera: Git i Github
 

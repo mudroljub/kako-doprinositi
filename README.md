@@ -5,7 +5,7 @@ Razvoj softvera je veoma složena aktivnost i na procedure razvoja softvera će 
 
 Za početak je neophodno otvoriti naloge na svim navedenim servisima.
 
-### Komunikacija: Slack
+### Slack: Komunikacija
 
 [Slack](https://slack.com/) je program za komunikaciju, poput Skype-a, koji služi prvenstveno za posao. Zbog toga, napravljen je da bude zatvoren, i možete mu pristupiti samo preko pozivnog linka: 
 
@@ -18,13 +18,13 @@ Unutar Slacka postoje razni kanali:
 - random za bilo šta neobavezno
 Ostali kanali su uglavnom nazvani po projektima koje vodimo.
 
-### Vođenje projekta: Trello
+### Trello: Vođenje projekta
 
 [Trello](http://trello.com/) koristimo za vođenje projekta, tu zapisujemo zadatke koje treba uraditi, pratimo ko šta radi, i dokle je stiglo.
 
 Potrebno je prvo da napravite nalog, a potom pokušate da se pridružite [kontrolnoj tabli Školi koda](https://trello.com/skolakoda). Teoretski, ako ste već na Slacku, trebalo bi da se možete priključiti. Ako ne uspete da se priključite našem timu na Trelu, javite se na Slack kanalu da to rešimo.
 
-### Razvoj softvera: Git i Github
+### Git i Github: Razvoj softvera
 
 [Git](https://git-scm.com/downloads) služi za čuvanje istorije koda i zajednički razvoj softvera. Ukoliko već ne koristite Git, trebaće vam neko vreme da pohvatate osnovne komande. Git možete koristiti preko komandne linije ili preko korisničkog interfejsa. Najbolje je da prvo ispratite neki tutorijal. Nakon što savladate osnovne komande, pročitajte:
 
@@ -34,7 +34,7 @@ Potrebno je prvo da napravite nalog, a potom pokušate da se pridružite [kontro
 
 Kao i do sada, ako negde zapne, slobodno potražite pomoć na našem slack kanalu.
 
-### Početak rada
+### Početak zajedničkog rada
 
 Čestitamo, prošli ste sve birokratske procedure i konačno stigli do samog koda. Da biste radili na nekom projektu, potrebno je da mu dobijete pristup (pitajte preko slacka). Nakon što vas dodamo na projekat, možete ga klonirati i pokrenuti na lokalu. U `README` fajlu svakog projekta nalazi se uputstvo za pokretanje. Ukoliko ne radi, opet pitajte na slacku.
 

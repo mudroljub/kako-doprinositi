@@ -1,5 +1,5 @@
 ## Škola koda: Vodič za developere
-# Kako doprinositi našim projektima?
+# Kako doprinositi projektima?
 
 Razvoj softvera je veoma složena aktivnost i na procedure razvoja softvera će vam otići dosta vremena. Međutim, neophodno je savladati ih ukoliko želite da se bavite razvojem.
 

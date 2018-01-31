@@ -24,6 +24,8 @@ Ostali kanali su uglavnom nazvani po projektima koje vodimo.
 
 Potrebno je prvo da napravite nalog, a potom pokušate da se pridružite [kontrolnoj tabli Školi koda](https://trello.com/skolakoda). Teoretski, ako ste već na Slacku, trebalo bi da se možete priključiti. Ako ne uspete da se priključite našem timu na Trelu, javite se na Slack kanalu da to rešimo.
 
+Neki od projekata imaju mogućnost priključenja preko pozivnog linka, na primer programerskim citatima se možete priključiti [ovde](https://trello.com/invite/b/fBcFTxgo/479e56fec92def1f0461fc818f22c6ab/programerski-citati).
+
 ### Git i Github: Razvoj softvera
 
 [Git](https://git-scm.com/downloads) služi za čuvanje istorije koda i zajednički razvoj softvera. Ukoliko već ne koristite Git, trebaće vam neko vreme da pohvatate osnovne komande. Git možete koristiti preko komandne linije ili preko korisničkog interfejsa. Najbolje je da prvo ispratite neki tutorijal. Nakon što savladate osnovne komande, pročitajte:

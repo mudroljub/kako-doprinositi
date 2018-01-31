@@ -11,7 +11,7 @@ Za početak je neophodno otvoriti naloge na svim navedenim servisima.
 
 - [http://bit.ly/slack-skolakoda](http://bit.ly/slack-skolakoda)
 
-Problem je što je trajanje pozivnog linka ograničeno, i mora se redovno obnavljati. Ako link trenutno ne radi, [javi nam](https://skolakoda.org/kontakt) da ga obnovimo.
+Problem je što je trajanje pozivnog linka ograničeno, i mora se redovno obnavljati. Ako link trenutno ne radi, [javi nam](https://skolakoda.org/kontakt) da ga obnovimo (ps. ni mi ne volimo što su tako zakomplikovali).
 
 Unutar Slacka postoje razni kanali:
 - general je za zajedničke stvari od opšteg značaja 

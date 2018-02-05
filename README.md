@@ -16,6 +16,7 @@ Problem je što je trajanje pozivnog linka ograničeno, i mora se redovno obnavl
 Unutar Slacka postoje razni kanali:
 - general je za zajedničke stvari od opšteg značaja 
 - random za bilo šta neobavezno
+
 Ostali kanali su uglavnom nazvani po projektima koje vodimo.
 
 ### Trello: Vođenje projekta

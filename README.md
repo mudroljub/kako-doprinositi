@@ -14,14 +14,14 @@ Za početak je neophodno otvoriti naloge na svim navedenim servisima.
 Problem je što je trajanje pozivnog linka ograničeno, i mora se redovno obnavljati. Ako link trenutno ne radi, [javi nam](https://skolakoda.org/kontakt) da ga obnovimo (*ni mi ne volimo što su tako zakomplikovali*).
 
 Unutar Slacka postoje razni kanali:
-- general je za zajedničke stvari od opšteg značaja 
+- general za zajedničke stvari od opšteg značaja 
 - random za bilo šta neobavezno
 
-Ostali kanali su uglavnom nazvani po projektima koje vodimo.
+Ostali kanali su uglavnom nazvani po projektima.
 
 ### Trello: Vođenje projekta
 
-[Trello](http://trello.com/) koristimo za vođenje projekta, tu zapisujemo zadatke koje treba uraditi, pratimo ko šta radi, i dokle je stiglo.
+[Trello](http://trello.com/) je softver za vođenje projekta, tu zapisujemo zadatke koje treba uraditi, pratimo ko šta radi, i dokle je stiglo.
 
 Potrebno je prvo da napravite nalog, a potom pokušate da se pridružite [kontrolnoj tabli Školi koda](https://trello.com/skolakoda). Teoretski, ako ste već na Slacku, trebalo bi da se možete priključiti. Ako ne uspete da se priključite našem timu na Trelu, javite se na Slack kanalu da to rešimo.
 

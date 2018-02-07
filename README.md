@@ -37,7 +37,7 @@ Kao i do sada, ako negde zapne, slobodno potražite pomoć na našem slack kanal
 
 ### Početak zajedničkog rada
 
-Čestitamo, prošli ste sve birokratske procedure i konačno stigli do samog koda. Da biste radili na nekom projektu, potrebno je da mu dobijete pristup (pitajte preko slacka). Nakon što vas dodamo na projekat, možete ga klonirati i pokrenuti na lokalu. U `README` fajlu svakog projekta nalazi se uputstvo za pokretanje. Ukoliko ne radi, opet pitajte na slacku.
+Čestitamo, prošli ste sve birokratske procedure i konačno stigli do samog koda. Da biste radili na [nekom od projekata](https://skolakoda.org/radovi), potrebno je da mu dobijete pristup (pitajte preko slacka). Nakon što vas dodamo na projekat, možete ga klonirati i pokrenuti na lokalu. U `README` fajlu svakog projekta nalazi se uputstvo za pokretanje. Ukoliko ne radi, opet pitajte na slacku.
 
 Nakon što ste uspeli da pokrenete projekat na lokalu i otvorite ga, sve je spremno da počnete. Napravite svoju granu i gitu i možete početi da na njoj vršite izmene. Pre nego što se bacite na pisanje, nije loše upoznati se sa [dobrim praksama](/dobre-prakse), posebno sa kodnim standardom koji se koristi na projektu. Nakon što završite zadatak, sledi revizija koda. Konačno, ako vaš kod zadovolji kodni standard, postaće deo projekta.
 

@@ -31,7 +31,7 @@ Potrebno je prvo da napravite nalog, a potom pokušate da se pridružite [kontro
 
 - [Rad sa gitom u kolektivu](https://skolakoda.org/rad-sa-gitom)
 
-[Github](http://github.com/) je online git platforma. Otvorite nalog na Githubu, a potom proverite da li ste podesili svoje korisničke podatke na lokalnoj instalaciji gita (potražite kako: *git set username and email*).
+[Github](http://github.com/) je online git platforma. Otvorite nalog na Githubu, a potom proverite da li ste podesili svoje korisničke podatke na lokalnoj instalaciji gita (potražite: *git set username and email*).
 
 Kao i do sada, ako negde zapne, slobodno potražite pomoć na našem slack kanalu.
 

@@ -23,9 +23,7 @@ Ostali kanali su uglavnom nazvani po projektima.
 
 [Trello](http://trello.com/) je softver za vođenje projekta, tu zapisujemo zadatke koje treba uraditi, pratimo ko šta radi, i dokle je stiglo.
 
-Potrebno je prvo da napravite nalog, a potom pokušate da se pridružite [kontrolnoj tabli Školi koda](https://trello.com/skolakoda). Teoretski, ako ste već na Slacku, trebalo bi da se možete priključiti. Ako se ne uspete priključi, javite se na Slack kanalu da to rešimo.
-
-Neki od projekata imaju mogućnost priključenja preko pozivnog linka, na primer programerskim citatima se možete priključiti [ovde](https://trello.com/invite/b/fBcFTxgo/479e56fec92def1f0461fc818f22c6ab/programerski-citati).
+Potrebno je prvo da napravite nalog, a potom pokušate da se pridružite [kontrolnoj tabli Školi koda](https://trello.com/skolakoda). Teoretski, ako ste već na Slacku, trebalo bi da se možete priključiti. Ako se ne uspete priključi, javite se na Slack kanalu da to rešimo. Neki od projekata imaju poziv preko linka, na primer programerskim citatima se možete priključiti [ovde](https://trello.com/invite/b/fBcFTxgo/479e56fec92def1f0461fc818f22c6ab/programerski-citati).
 
 ### Git i Github: Razvoj softvera
 

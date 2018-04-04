@@ -9,9 +9,9 @@ Za početak je neophodno otvoriti naloge na svim navedenim servisima.
 
 [Slack](https://slack.com/) je program za komunikaciju, poput Skype-a, koji služi prvenstveno za posao. Zbog toga, napravljen je da bude zatvoren, i možete mu pristupiti samo preko pozivnog linka: 
 
-- [slack-skolakoda](https://join.slack.com/t/skolakoda/shared_invite/enQtMzI2NDM1ODY1NTI3LWI2ZWZhNjhmMDgwZGU3Njc5N2QzZTZmZTI0ZGMwNzQzOWU0MjRhMmYxMmE3NDdkYTVjYjVhMjc3MzI1Njk0YzA)
+- [slack-skolakoda](https://join.slack.com/t/skolakoda/shared_invite/enQtMzQxODgxMjM3NDYyLTg5MjFiZjAxZjgyYWViMGEzMzIxNTJlNGNhMWU4NzBhYzI5ZWZiZjlmZGUzMDI0MjJkMGIxMDFmYmI5YWYwNjQ)
 
-Problem je što je trajanje pozivnog linka ograničeno, i mora se redovno obnavljati. Ako link trenutno ne radi, [javi nam](https://skolakoda.org/kontakt) da ga obnovimo (*ni mi ne volimo što su tako zakomplikovali*).
+Ako link trenutno ne radi, [javi nam](https://skolakoda.org/kontakt) da ga obnovimo.
 
 Unutar Slacka postoje razni kanali:
 - general za zajedničke stvari od opšteg značaja 
